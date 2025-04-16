@@ -38,6 +38,6 @@ Insert new projects (and links) in the space between the pipes.
 
  _______
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,vue,nodejs,c,cpp,html,css,git)](https://skillicons.dev)
 
 _______
