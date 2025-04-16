@@ -34,7 +34,7 @@ Insert new projects (and links) in the space between the pipes.
 | 🌟 **Personal Projects** | 📚 **Coursework** |
 | :---: | :---: |
 | [Game Hub](https://github.com/cupidtiy/game-hub) | [Mobile Software Development](https://github.com/cupidtiy/CEN4360-mobile-software-development) |
-| | |
+
 
  _______
 
