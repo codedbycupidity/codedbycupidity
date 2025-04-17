@@ -2,7 +2,7 @@
 
 <div align="center">
 
-###  👋  [portfolio](https://github.com/cupidtiy) ∙ [email](mailto:info.laylale@gmail.com) ∙ [LinkedIn](https://www.linkedin.com/in/laylale)  👋
+###    [portfolio](https://github.com/cupidtiy) ∙ [email](mailto:info.laylale@gmail.com) ∙ [LinkedIn](https://www.linkedin.com/in/laylale)  *‧.₊˚*੭*ˊᵕˋ੭.* 
 
 </div>
 
@@ -14,7 +14,7 @@ A simple greeting for your viewers. Add/remove/customize to your liking.
 
 -->
 
-### Hi there 👋 I'm Layla
+### Hi there ≽^•⩊•^≼ ₊˚⊹ I'm Layla
 
 - 🔭 I’m currently a rising Sophomore at UCF studying Computer Science!
 - 🌱 I’m currently learning about Generative AI as a UCF Undergrad Researcher.
