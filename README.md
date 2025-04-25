@@ -39,6 +39,6 @@ Insert new projects (and links) in the space between the pipes.
 
  _______
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,unity,java,py,vscode,react,js,vite,nodejs,c,cpp,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,unity,java,py,vscode,react.js,vite,nodejs,c,cpp,html,css,git)](https://skillicons.dev)
 
 _______
