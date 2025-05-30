@@ -35,7 +35,7 @@ Insert new projects (and links) in the space between the pipes.
 | 🌟 **Personal Projects** | 📚 **Coursework** |
 | :---: | :---: |
 | [Game Hub](https://github.com/cupidtiy/game-hub) | [Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development) |
-| [Currency Converter](https://github.com/cupidtiy/currency-converter) | [Contact Manager](https://github.com/GiorgioMiguel/Contact-Manager) |
+| [Currency Converter](https://github.com/cupidtiy/currency-converter) | [Contact Manager](https://github.com/cupidtiy/POOSDsmall) |
 | | [Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere) |
 
 
