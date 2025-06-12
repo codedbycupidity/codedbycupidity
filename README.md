@@ -18,7 +18,7 @@ A simple greeting for your viewers. Add/remove/customize to your liking.
 ### Hi there! I'm Layla  ˚⋆𐙚｡⋆𖦹.✧˚ 
 
 - 🔭 I’m currently a rising Sophomore at UCF studying Computer Science!
-- 🌱 I’m currently learning about Generative AI as a UCF Undergrad Researcher.
+- 🌱 I’m currently learning about Human Factors as a UCF Undergrad Researcher.
 - 💬 Ask me about my projects!
 - Thanks for stopping by my page! ≽^•⩊•^≼
 
