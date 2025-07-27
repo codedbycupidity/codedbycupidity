@@ -34,9 +34,10 @@ Insert new projects (and links) in the space between the pipes.
 -->
 | 🌟 **Personal Projects** | 📚 **Coursework** |
 | :---: | :---: |
-| [MediMate](https://github.com/cupidtiy/medi-mate) |  [Contact Manager](https://github.com/cupidtiy/POOSDsmall)  |
-| [Game Hub](https://github.com/cupidtiy/game-hub)  | [Passport Buddy](https://github.com/cdmairu/Passport-Buddy) |
-| [Currency Converter](https://github.com/cupidtiy/currency-converter) | [Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere) |
+| [Game Hub](https://github.com/cupidtiy/game-hub)   |  [Passport-Buddy](https://github.com/Izaacapp/flutterrr)  |
+| [Currency Converter](https://github.com/cupidtiy/currency-converter)  |  [Contact Manager](https://github.com/cupidtiy/POOSDsmall)  |
+| | [Contact Manager](https://github.com/cupidtiy/POOSDsmall)  |
+|  | [Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere) |
 |  | [Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development) |
 
 
