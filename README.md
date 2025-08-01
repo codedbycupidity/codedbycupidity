@@ -1,47 +1,46 @@
-
-
 <div align="center">
 
-###   ˗ˏˋ  [portfolio](https://github.com/cupidtiy) ∙ [email](mailto:info.laylale@gmail.com) ∙ [linkedin](https://www.linkedin.com/in/laylale) ˎˊ˗
-*‧.₊˚*੭*ˊᵕˋ੭.* 
+# ˗ˏˋ ✨ Layla's Portfolio ✨ ˎˊ˗
+
+### [🌐 Portfolio](https://github.com/cupidtiy) ∙ [📧 Email](mailto:info.laylale@gmail.com) ∙ [💼 LinkedIn](https://www.linkedin.com/in/laylale)
+
+*‧.₊˚ Welcome to my coding journey! ˚₊.‧*
 
 </div>
 
-_______
+---
 
-<!--
+## Hi there! I'm Layla ˚⋆𐙚｡⋆𖦹.✧˚ 
 
-A simple greeting for your viewers. Add/remove/customize to your liking.
+🎓 Student at UCF studying **Computer Science**  
+🔬 **UCF Undergraduate Researcher** exploring Human Factors  
+💻 Passionate about creating meaningful tech solutions  
+💬 Always excited to discuss my projects and collaborate!  
 
--->
+*Thanks for visiting my corner of GitHub!* ≽^•⩊•^≼
 
-### Hi there! I'm Layla  ˚⋆𐙚｡⋆𖦹.✧˚ 
+---
 
-- 🔭 I’m currently a rising Sophomore at UCF studying Computer Science!
-- 🌱 I’m currently learning about Human Factors as a UCF Undergrad Researcher.
-- 💬 Ask me about my projects!
-- Thanks for stopping by my page! ≽^•⩊•^≼
+## 🚀 My Projects
 
- _______
+<div align="center">
 
-<!--
-
-Lilly: 
-This is a 2 x 5 Table for you to add direct links to projects.
-The pipes below have "spaces", keep the pipes, those are table edges.
-Insert new projects (and links) in the space between the pipes.
-
--->
 | 🌟 **Personal Projects** | 📚 **Coursework** |
-| :---: | :---: |
-| [Game Hub](https://github.com/cupidtiy/game-hub)   |  [Passport Buddy](https://github.com/Izaacapp/flutterrr)  |
-| [Currency Converter](https://github.com/cupidtiy/currency-converter)  |  [Contact Manager](https://github.com/cupidtiy/POOSDsmall)  |
-| [ASL reader](https://github.com/cupidtiy/asl-reader.git) | [Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere) |
-|  | [Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development) |
+|:-------------------------:|:-----------------:|
+| **[Medi-Mate](https://github.com/cupidtiy/medi-mate.git)**<br/>*Medication Reminder* | **[Passport Buddy](https://github.com/Izaacapp/flutterrr)**<br/>*Travel Social Media* |
+| **[Game Hub](https://github.com/cupidtiy/game-hub)**<br/>*Gaming platform interface* | **[Contact Manager](https://github.com/cupidtiy/POOSDsmall)**<br/>*Database management system* |
+| **[ASL Reader](https://github.com/cupidtiy/asl-reader.git)**<br/>*Accessibility communication tool* | **[Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere)**<br/>*Travel booking platform* |
+| **[Currency Converter](https://github.com/cupidtiy/currency-converter)**<br/>*Real-time exchange rates* | **[Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development)**<br/>*Mobile game development* |
 
+</div>
 
- _______
+---
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,unity,java,py,vscode,react,vite,nodejs,c,cpp,html,css,git)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
-_______
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,unity,java,py,vscode,react,vite,nodejs,c,flutter,html,css,git)](https://skillicons.dev)
+
+</div>
+
