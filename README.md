@@ -1,6 +1,6 @@
 <div align="center">
 
-# ˗ˏˋ ✨ Layla's Portfolio ✨ ˎˊ˗
+# ˗ˏˋ  Layla's Portfolio  ˎˊ˗
 
 ### [🌐 Portfolio](https://github.com/cupidtiy) ∙ [📧 Email](mailto:info.laylale@gmail.com) ∙ [💼 LinkedIn](https://www.linkedin.com/in/laylale)
 
