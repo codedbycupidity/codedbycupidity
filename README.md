@@ -36,7 +36,7 @@ Insert new projects (and links) in the space between the pipes.
 | :---: | :---: |
 | [Game Hub](https://github.com/cupidtiy/game-hub)   |  [Passport Buddy](https://github.com/Izaacapp/flutterrr)  |
 | [Currency Converter](https://github.com/cupidtiy/currency-converter)  |  [Contact Manager](https://github.com/cupidtiy/POOSDsmall)  |
-|  | [Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere) |
+| [ASL reader](https://github.com/cupidtiy/asl-reader.git) | [Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere) |
 |  | [Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development) |
 
 
