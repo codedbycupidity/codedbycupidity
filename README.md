@@ -2,7 +2,7 @@
 
 # ˗ˏˋ  My Portfolio  ˎˊ˗
 
-### [🌐 Portfolio](https://github.com/cupidtiy) ∙ [📧 Email](mailto:info.laylale@gmail.com) ∙ [💼 LinkedIn](https://www.linkedin.com/in/laylale)
+### [🌐 Portfolio](https://laylale.dev/) ∙ [📧 Email](mailto:info.laylale@gmail.com) ∙ [💼 LinkedIn](https://www.linkedin.com/in/laylale)
 
 *‧.₊˚ Welcome to my coding journey! ˚₊.‧*
 
@@ -31,6 +31,7 @@
 | **[Game Hub](https://github.com/cupidtiy/game-hub)**<br/>*Gaming platform interface* | **[Contact Manager](https://github.com/cupidtiy/POOSDsmall)**<br/>*Database management system* |
 | **[ASL Reader](https://github.com/cupidtiy/asl-reader.git)**<br/>*Accessibility communication tool* | **[Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere)**<br/>*Travel booking platform* |
 | **[Currency Converter](https://github.com/cupidtiy/currency-converter)**<br/>*Real-time exchange rates* | **[Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development)**<br/>*Mobile game development* |
+| **[Portfolio](https://github.com/cupidtiy/portfolio)**<br/>*My personal website* | |
 
 </div>
 
