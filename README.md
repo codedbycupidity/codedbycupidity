@@ -27,11 +27,11 @@
 
 | 🌟 **Personal Projects** | 📚 **Coursework** |
 |:-------------------------:|:-----------------:|
-| **[Medi-Mate](https://github.com/cupidtiy/medi-mate.git)**<br/>*Medication Reminder* | **[Passport Buddy](https://github.com/Izaacapp/flutterrr)**<br/>*Travel Social Media* |
-| **[Game Hub](https://github.com/cupidtiy/game-hub)**<br/>*Gaming platform interface* | **[Contact Manager](https://github.com/cupidtiy/POOSDsmall)**<br/>*Database management system* |
-| **[Liora](https://github.com/cupidtiy/asl-reader.git)**<br/>*ASL communication tool* | **[Cruise Everywhere](https://github.com/cupidtiy/Cruise-Everywhere)**<br/>*Travel booking platform* |
-| **[Currency Converter](https://github.com/cupidtiy/currency-converter)**<br/>*Real-time exchange rates* | **[Connect Four](https://github.com/cupidtiy/CEN4360-mobile-software-development)**<br/>*Mobile game development* |
-| **[Portfolio](https://github.com/cupidtiy/portfolio)**<br/>*My personal website* | |
+| **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Medication Reminder* | **[Passport Buddy](https://github.com/Izaacapp/flutterrr)**<br/>*Travel Social Media* |
+| **[Game Hub](https://github.com/codedbycupidity/game-hub)**<br/>*Gaming platform interface* | **[Contact Manager](https://github.com/codedbycupidity/POOSDsmall)**<br/>*Database management system* |
+| **[Liora](https://github.com/codedbycupidity/asl-reader.git)**<br/>*ASL communication tool* | **[Cruise Everywhere](https://github.com/codedbycupidity/Cruise-Everywhere)**<br/>*Travel booking platform* |
+| **[Currency Converter](https://github.com/codedbycupidity/currency-converter)**<br/>*Real-time exchange rates* | **[Connect Four](https://github.com/codedbycupidity/CEN4360-mobile-software-development)**<br/>*Mobile game development* |
+| **[Portfolio](https://github.com/codedbycupidity/portfolio)**<br/>*My personal website* | |
 
 </div>
 
