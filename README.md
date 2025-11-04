@@ -12,9 +12,9 @@
 
 ## Hi there! I'm Layla ˚⋆𐙚｡⋆𖦹.✧˚
 
-🎓 Student at UCF studying **Computer Science**  
+🎓 Student at UCF studying **Computer Science & Bioengineering**  
 🔬 **Undergraduate Researcher** in Human Factors & Biometric Data  
-💻 Building tech that makes life better — from healthcare to travel  
+💻 Building tech that makes life better 
 💬 Always happy to connect and collaborate!
 
 *Thanks for visiting my corner of GitHub!* ≽^•⩊•^≼
