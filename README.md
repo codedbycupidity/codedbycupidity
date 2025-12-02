@@ -28,7 +28,7 @@
 | 🌟 **Featured Projects** | 📚 **Coursework Highlights** |
 |:-------------------------:|:----------------------------:|
 | **[Passport Buddy](https://github.com/Izaacapp/flutterrr)**<br/>*Full-stack flight tracking & travel social platform* | **[Contact Manager](https://github.com/codedbycupidity/POOSDsmall)**<br/>*Desktop CRUD address book (Java)* |
-| **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Health-focused medication reminder (React/TS)* | **[Cruise Everywhere](https://github.com/codedbycupidity/Cruise-Everywhere)**<br/>*Travel booking system prototype* |
+| **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Mock Electronic Health Record system (React/TS)* | **[Cruise Everywhere](https://github.com/codedbycupidity/Cruise-Everywhere)**<br/>*Travel booking system prototype* |
 | **[Alignr](https://github.com/codedbycupidity/alignr.git)**<br/>*AI-powered collaborative planning tool (KnightHacks)* | **[Connect Four](https://github.com/codedbycupidity/CEN4360-mobile-software-development)**<br/>*Mobile game built in Android Studio* |
 | [ View More Projects →](https://github.com/codedbycupidity?tab=repositories) |  |
 
