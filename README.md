@@ -12,7 +12,7 @@
 
 ## Hi there! I'm Layla ˚⋆𐙚｡⋆𖦹.✧˚
 
-🎓 Student at UCF studying **Computer Science & Bioengineering**  
+🎓 Student at UCF studying **Computer Science**  
 🔬 **Undergraduate Researcher** in Human Factors & Biometric Data  
 💻 Building tech that makes life better 
 💬 Always happy to connect and collaborate!
