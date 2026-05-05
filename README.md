@@ -11,7 +11,7 @@
 ## Hi there! I'm Layla ˚⋆𐙚｡⋆𖦹.✧˚
 
 Student at UCF studying **Computer Science**  
-always building tech with a pure heart and whimsy :p
+technology made with love
 
 *Thanks for visiting my corner of GitHub!* ≽^•⩊•^≼
 
