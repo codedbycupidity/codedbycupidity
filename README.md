@@ -20,13 +20,11 @@ Student at UCF studying **Computer Science**
 
 <div align="center">
 
-| **Featured Projects** |
-|:-------------------------:|
-| **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Mock Electronic Health Record system* |
-| **[Passport Buddy](https://github.com/codedbycupidity/passport-buddy)**<br/>*Full-stack flight tracking & travel social platform* |
-| **[Layout Engine](https://github.com/codedbycupidity/layout-engine)**<br/>*Engine that performs core layout algorithms* |
-| [View More Projects →](https://github.com/codedbycupidity?tab=repositories) |
-
+| **Featured Projects** | **Creative & Embedded Projects** |
+|:-------------------------:|:-------------------------:|
+| **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Mock Electronic Health Record system* | **[Raspberry Pi Photobooth](https://github.com/codedbycupidity/raspberry-pi-photobooth)**<br/>*Touchscreen interactive photobooth* |
+| **[Passport Buddy](https://github.com/codedbycupidity/passport-buddy)**<br/>*Full-stack flight tracking & travel social platform* | **[Liora](https://github.com/codedbycupidity/Liora)**<br/>*ASL gesture recognition* |
+| **[Layout Engine](https://github.com/codedbycupidity/layout-engine)**<br/>*Engine that performs core layout algorithms* | **[Into My Heart](https://github.com/codedbycupidity/IntoMyHeart)**<br/>*Heartbeat visualization with Arduino* |
 </div>
 
 ---
