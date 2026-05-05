@@ -10,14 +10,13 @@
 
 ## Hi there! I'm Layla ˚⋆𐙚｡⋆𖦹.✧˚
 
-Student at UCF studying **Computer Science**  
-technology made with love
+Student at UCF studying **Computer Science** 
 
 *Thanks for visiting my corner of GitHub!* ≽^•⩊•^≼
 
 ---
 
-## What I've Worked On
+## Technology Made With Love
 
 <div align="center">
 
