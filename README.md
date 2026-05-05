@@ -24,7 +24,7 @@ always building tech with a pure heart and whimsy :p
 | **Featured Projects** |
 |:-------------------------:|
 | **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Mock Electronic Health Record system* |
-| **[Passport Buddy](https://github.com/Izaacapp/flutterrr)**<br/>*Full-stack flight tracking & travel social platform* |
+| **[Passport Buddy](https://github.com/codedbycupidity/passport-buddy)**<br/>*Full-stack flight tracking & travel social platform* |
 | **[Layout Engine](https://github.com/codedbycupidity/layout-engine)**<br/>*Engine that performs core layout algorithms* |
 | [View More Projects →](https://github.com/codedbycupidity?tab=repositories) |
 
