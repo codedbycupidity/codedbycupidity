@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## ⋆｡‧˚ʚ Hi there! I'm Layla ɞ˚‧｡⋆
+## ⋆｡‧˚ʚ Hi there! I'm Lilly ɞ˚‧｡⋆
 
 </div>
 
