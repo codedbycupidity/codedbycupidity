@@ -4,7 +4,7 @@
 
 ⋆˚࿔ ⋆౨ৎ˚⟡.• ࿔˚⋆
 
-### ✧ [Portfolio](https://laylal.dev/) ∙ [Email](mailto:hello@laylal.dev) ∙ [LinkedIn](https://www.linkedin.com/in/laylal) ∙ [Other GitHub](https://github.com/cupidbity) ✧
+### ✧ [Portfolio](https://laylalilly.dev/) ∙ [Email](mailto:hello@laylalilly.dev) ∙ [LinkedIn](https://www.linkedin.com/in/laylalilly) ∙ [Other GitHub](https://github.com/cupidbity) ✧
 
 </div>
 
