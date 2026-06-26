@@ -17,26 +17,9 @@
 </div>
 
 > ⟡ &nbsp;Student at **UCF** studying **Computer Science**  
+> ⟡ &nbsp;AWS Certified Cloud Practitioner (Issued Oct 2025)  
 > ⟡ &nbsp;Also building over at [**@cupidbity**](https://github.com/cupidbity)  
 > ⟡ &nbsp;*Thanks for visiting my corner of GitHub!* ≽^•⩊•^≼
-
----
-
-<div align="center">
-
-## ˚｡⋆୨୧˚ Technology Made With Love ˚୨୧⋆｡˚
-
-</div>
-
-<div align="center">
-
-| ✿ **Featured Projects** | ❀ **Creative & Embedded Projects** |
-|:-------------------------:|:-------------------------:|
-| **[Medi-Mate](https://github.com/codedbycupidity/medi-mate.git)**<br/>*Mock Electronic Health Record system* | **[Raspberry Pi Photobooth](https://github.com/codedbycupidity/raspberry-pi-photobooth)**<br/>*Touchscreen interactive photobooth* |
-| **[Passport Buddy](https://github.com/codedbycupidity/passport-buddy)**<br/>*Full-stack flight tracking & travel social platform* | **[Cupid Player](https://github.com/codedbycupidity/cupid-player)**<br/>*Pixel-art music player* |
-| **[Layout Engine](https://github.com/codedbycupidity/layout-engine)**<br/>*Engine that performs core layout algorithms* | **[Into My Heart](https://github.com/codedbycupidity/IntoMyHeart)**<br/>*Heartbeat visualization with Arduino* |
-
-</div>
 
 ---
 
