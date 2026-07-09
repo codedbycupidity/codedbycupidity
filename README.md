@@ -38,9 +38,9 @@
 
 ## ✿ GitHub Stats ✿
 
-<a href="https://github.com/codedbycupidity">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=codedbycupidity&show_icons=true&hide_border=true&title_color=e69bb5&icon_color=e69bb5&text_color=555555&bg_color=fdf2f8&include_all_commits=true&count_private=true" alt="Layla's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codedbycupidity&layout=compact&hide_border=true&title_color=e69bb5&text_color=555555&bg_color=fdf2f8" alt="Top languages" />
+<a href="https://github.com/cupidsity">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cupidsity&show_icons=true&hide_border=true&title_color=e69bb5&icon_color=e69bb5&text_color=555555&bg_color=fdf2f8&include_all_commits=true&count_private=true" alt="Lilly's GitHub stats" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cupidsity&layout=compact&hide_border=true&title_color=e69bb5&text_color=555555&bg_color=fdf2f8" alt="Top languages" />
 </a>
 
 <br/><br/>
