@@ -40,8 +40,7 @@
 
 <a href="https://github.com/cupidsity">
   <img height="160em" src="https://github-readme-stats-mu-seven-61.vercel.app/api?username=cupidsity&show_icons=true&hide_border=true&all_time=true&number_format=long&title_color=e69bb5&icon_color=e69bb5&text_color=555555&bg_color=fdf2f8" alt="Lilly's GitHub stats" />
-  <img height="160em" src="https://github-readme-stats-mu-seven-61.vercel.app/api/top-langs/?username=cupidsity&layout=compact&hide_border=true&title_color=e69bb5&text_color=555555&bg_color=fdf2f8" alt="Top languages" />
-</a>
+<img height="160em" src="https://github-readme-stats-mu-seven-61.vercel.app/api/top-langs/?username=cupidsity&layout=compact&hide_border=true&hide=c&title_color=e69bb5&text_color=555555&bg_color=fdf2f8" alt="Top languages" />
 
 <br/><br/>
 
